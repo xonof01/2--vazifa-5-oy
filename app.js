@@ -107,7 +107,7 @@
 // }
 // console.log(name(res1));
 
-// 8 misol
+
 
 // 9 misol
 
